@@ -46,5 +46,6 @@ It automatically detects free and occupied parking spots from images or video, m
 
 ---
 
+output Video: https://github.com/mostafa-3bdelaal/SmartCarPark/blob/main/carpark_output.mp4
 
 
