@@ -46,9 +46,5 @@ It automatically detects free and occupied parking spots from images or video, m
 
 ---
 
-## 🔹 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ParkVision.git
 
