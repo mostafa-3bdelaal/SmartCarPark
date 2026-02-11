@@ -1,5 +1,5 @@
 # ParkVision 🅿️
-
+jj
 **ParkVision** is a smart parking lot monitoring system using Python, OpenCV, and CVZone.  
 It automatically detects free and occupied parking spots from images or video, making parking management easier and more efficient.
 
